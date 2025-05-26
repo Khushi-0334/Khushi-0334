@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java,Html,CSS,MySQL**
 
-- 📫 How to reach me **khushisayyad@gmail.com**
+- 📫 How to reach me **khushisayyad01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
